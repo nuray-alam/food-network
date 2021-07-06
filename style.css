@@ -88,6 +88,7 @@ section {
 .card-img img {
   width: 85%;
   margin-top: 20px;
+  border-radius: 10px;
 }
 .card-detail {
   padding: 0px 20px;
